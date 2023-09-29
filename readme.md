@@ -2,7 +2,17 @@
 
 This Python script scrapes doctor information from the [Doctor Bangladesh](https://www.doctorbangladesh.com) website based on department and location preferences.
 
-## Usage
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+
+## Features
+- Scrapes doctor workplace and name based on the provided specialization and location.
+
+## Installation
 
 1. Clone this repository:
 
